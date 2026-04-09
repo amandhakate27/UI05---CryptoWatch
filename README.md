@@ -19,6 +19,23 @@ Live Badge Text     : #a78bfa
 Avatar Bg           : #7c3aed
 Avatar Text         : #ffffff
 
+## TASK 2 — Navbar.jsx
+```
+Kya banana hai:
+[ ] Left side — purple dot + "CryptoWatch" text
+[ ] Right side — "Live" badge + Avatar (initials)
+
+Props:
+→ username  (initials ke liye)
+
+Tailwind hints:
+→ flex justify-between items-center
+→ bg — #0f0f1a (inline style ya custom)
+→ Badge: rounded-full text-xs px-3 py-1
+→ Avatar: w-8 h-8 rounded-full
+
+
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 HeroCard.jsx
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -178,20 +195,7 @@ activeTab  → useState("all") // selected tab
 
 ---
 
-## TASK 2 — Navbar.jsx
-```
-Kya banana hai:
-[ ] Left side — purple dot + "CryptoWatch" text
-[ ] Right side — "Live" badge + Avatar (initials)
 
-Props:
-→ username  (initials ke liye)
-
-Tailwind hints:
-→ flex justify-between items-center
-→ bg — #0f0f1a (inline style ya custom)
-→ Badge: rounded-full text-xs px-3 py-1
-→ Avatar: w-8 h-8 rounded-full
 ```
 
 ---
