@@ -5,6 +5,7 @@ const App = () => {
    <>
     <div className="min-h-screen">
       <Navbar />
+      <HeroCard />
     </div>
    </>
   )
