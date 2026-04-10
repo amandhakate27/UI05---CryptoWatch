@@ -5,7 +5,7 @@ Fetches live data from CoinGecko API using useEffect on mount.
 
 ## Output Screenshot
 
-![CryptoWatch Dashboard Output](./src/assets/output.png)
+<img src="./src/assets/output.png" alt="CryptoWatch Dashboard Output" width="400" />
 
 
 ## Concepts Covered
