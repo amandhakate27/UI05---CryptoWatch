@@ -1,7 +1,7 @@
-const Card = () => {
+const Card = ({ children }) => {
   return (
-    <div>
-      <h1>Card</h1>
+    <div className="rounded-xl p-4 bg-[rgba(255,255,255,0.04) border-[rgba(255, 255, 255, 0.08)]]">
+      {children}
     </div>
   )
 }
