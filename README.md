@@ -3,6 +3,10 @@
 A real-time cryptocurrency price tracker built with React.
 Fetches live data from CoinGecko API using useEffect on mount.
 
+## Output Screenshot
+
+![CryptoWatch Dashboard Output](./src/assets/output.png)
+
 
 ## Concepts Covered
 
